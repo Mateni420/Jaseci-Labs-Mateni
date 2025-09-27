@@ -1,13 +1,13 @@
-with entry {
-    i = 1;
-    while i < 6 {
-        print(i);
-        i+=1;
-    }
-}
+# with entry {
+#     i = 1;
+#     while i < 6 {
+#         print(i);
+#         i+=1;
+#     }
+# }
 
 with entry {
-    x = 15;
+    x = 9;
     if 0 <= x<= 5 {
         print("Not Bad");
     } elif 6 <= x<= 10 {
