@@ -5,5 +5,5 @@ with entry {
 with entry {
     name = "Brandon";
     age = 25;
-    print("Hello, my name is " + name + " and I am " + age + " years old.");
+    print(f"Hello, my name is {name} and I am {age} years old.");
 }
